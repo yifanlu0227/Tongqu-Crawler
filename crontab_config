@@ -1,0 +1,1 @@
+0 9 * * * /opt/anaconda3/bin/python /Users/luyifan/Code/Tongqu_Crawler/crawler.py -r "YOUR_EMAIL_ADDRESS"
